@@ -8,4 +8,3 @@ Descreva detalhadamento o que foi feito nesta alteração
 - [ ] Alterações revisadas por outro deve
 - [ ] Nenhum segredo exposto no código
 - [ ] Teste de QA foram executados
-- [ ] Containers foram executados
