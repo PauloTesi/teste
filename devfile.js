@@ -1,3 +1,3 @@
 function() {
-  print "Ambiente de dev + atualizado";
+  print "Ambiente de dev +";
 }
